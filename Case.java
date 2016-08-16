@@ -1,4 +1,4 @@
-
+//class case
 public class Case {
 	int x, y;
 
